@@ -1,3 +1,5 @@
+# creates a simple dictionary based on the json file
+
 import json
 from difflib import get_close_matches as match
 
