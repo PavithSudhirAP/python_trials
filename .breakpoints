@@ -1,11 +1,47 @@
 {
   "files": {
+    "Birthday_gift.py": [
+      {
+        "id": "7ab9f6e2-53cd-48e9-bce9-716ebcf510c4",
+        "line": 1,
+        "version": 1260,
+        "index": 0
+      },
+      {
+        "id": "c842dfc5-b4f4-4129-9aa3-987acb57079b",
+        "line": 26,
+        "version": 1260,
+        "index": 776
+      }
+    ],
+    "RPG_game.py": [
+      {
+        "id": "cc59d6c0-5565-4bfa-8d7a-20ad8c09cabf",
+        "line": 6,
+        "version": 778,
+        "index": 123
+      },
+      {
+        "id": "25f7cd57-4c5b-437f-a1a8-c526ac67a431",
+        "line": 17,
+        "version": 778,
+        "index": 407
+      }
+    ],
     "dictionary.py": [
       {
         "id": "96a06390-5ca1-4d22-9e04-ee546b06e879",
         "line": 17,
-        "version": 458,
-        "index": 322
+        "version": 1,
+        "index": 391
+      }
+    ],
+    "secondplace.py": [
+      {
+        "id": "6c7f76b4-ffcd-4d26-a3c1-4deccc8d192e",
+        "line": 7,
+        "version": 350,
+        "index": 137
       }
     ]
   }
